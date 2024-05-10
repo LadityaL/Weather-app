@@ -1,1 +1,1 @@
-# Weather-app
+# Weather-app uses HTML, CSS, and Javascript APIs to tell you the current weather in real time of any place you put in.
